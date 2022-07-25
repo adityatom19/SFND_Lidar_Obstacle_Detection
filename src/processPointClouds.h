@@ -12,7 +12,7 @@
 #include <pcl/segmentation/sac_segmentation.h>
 #include <pcl/segmentation/extract_clusters.h>
 #include <pcl/common/transforms.h>
-#include <iostream> 
+#include <iostream>
 #include <string>  
 #include <vector>
 #include <ctime>
